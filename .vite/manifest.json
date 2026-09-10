@@ -17,16 +17,16 @@
       "_record-CSc02xdS.js"
     ]
   },
-  "_app-route-prefetch-policy-Dgbai4Qq.js": {
-    "file": "srubkelo-preview/_next/static/chunks/app-route-prefetch-policy-Dgbai4Qq.js",
+  "_app-route-prefetch-policy-DswuLxsH.js": {
+    "file": "srubkelo-preview/_next/static/chunks/app-route-prefetch-policy-DswuLxsH.js",
     "name": "app-route-prefetch-policy",
     "imports": [
       "_rolldown-runtime-bnQYAdXG.js",
       "virtual:vinext-app-browser-entry"
     ]
   },
-  "_app-rsc-cache-busting-BMvE74gL.js": {
-    "file": "srubkelo-preview/_next/static/chunks/app-rsc-cache-busting-BMvE74gL.js",
+  "_app-rsc-cache-busting-CEvXzclV.js": {
+    "file": "srubkelo-preview/_next/static/chunks/app-rsc-cache-busting-CEvXzclV.js",
     "name": "app-rsc-cache-busting",
     "imports": [
       "_rolldown-runtime-bnQYAdXG.js",
@@ -91,7 +91,7 @@
     "name": "rolldown-runtime"
   },
   "app/KeloSite.tsx": {
-    "file": "srubkelo-preview/_next/static/chunks/KeloSite-DtgfUWYz.js",
+    "file": "srubkelo-preview/_next/static/chunks/KeloSite-NpyMfreq.js",
     "name": "KeloSite",
     "src": "app/KeloSite.tsx",
     "isDynamicEntry": true,
@@ -104,7 +104,7 @@
     ]
   },
   "node_modules/vinext/dist/shims/internal/hybrid-client-route-owner.js": {
-    "file": "srubkelo-preview/_next/static/chunks/hybrid-client-route-owner-CggzgFZJ.js",
+    "file": "srubkelo-preview/_next/static/chunks/hybrid-client-route-owner-Dz26AmTJ.js",
     "name": "hybrid-client-route-owner",
     "src": "node_modules/vinext/dist/shims/internal/hybrid-client-route-owner.js",
     "isDynamicEntry": true,
@@ -115,7 +115,7 @@
     ]
   },
   "node_modules/vinext/dist/shims/layout-segment-context.js": {
-    "file": "srubkelo-preview/_next/static/chunks/layout-segment-context-De3i3EJn.js",
+    "file": "srubkelo-preview/_next/static/chunks/layout-segment-context-CnHM_GNT.js",
     "name": "layout-segment-context",
     "src": "node_modules/vinext/dist/shims/layout-segment-context.js",
     "isDynamicEntry": true,
@@ -127,7 +127,7 @@
     ]
   },
   "node_modules/vinext/dist/shims/link.js": {
-    "file": "srubkelo-preview/_next/static/chunks/link-BfzOxD9E.js",
+    "file": "srubkelo-preview/_next/static/chunks/link-D8-Wry80.js",
     "name": "link",
     "src": "node_modules/vinext/dist/shims/link.js",
     "isDynamicEntry": true,
@@ -135,7 +135,7 @@
       "_rolldown-runtime-bnQYAdXG.js",
       "virtual:vinext-app-browser-entry",
       "_framework-KZUnPSqb.js",
-      "_app-route-prefetch-policy-Dgbai4Qq.js",
+      "_app-route-prefetch-policy-DswuLxsH.js",
       "_deployment-id-BD5kurIw.js",
       "_protocol-headers-DGXpB_uH.js",
       "_query-DJ6ulCPt.js",
@@ -145,7 +145,7 @@
       "node_modules/vinext/dist/shims/internal/hybrid-client-route-owner.js",
       "virtual:vinext-app-browser-entry",
       "_app-elements-DFzbzaw9.js",
-      "_app-rsc-cache-busting-BMvE74gL.js",
+      "_app-rsc-cache-busting-CEvXzclV.js",
       "_app-rsc-render-mode-C8c_inY_.js",
       "_headers-BHZFF2Vl.js"
     ]
@@ -161,7 +161,7 @@
     ]
   },
   "virtual:vinext-app-browser-entry": {
-    "file": "srubkelo-preview/_next/static/chunks/index-CYNKGR0K.js",
+    "file": "srubkelo-preview/_next/static/chunks/index-td191Wlm.js",
     "name": "index",
     "src": "virtual:vinext-app-browser-entry",
     "isEntry": true,
@@ -169,7 +169,7 @@
       "_rolldown-runtime-bnQYAdXG.js",
       "_framework-KZUnPSqb.js",
       "_app-elements-DFzbzaw9.js",
-      "_app-rsc-cache-busting-BMvE74gL.js",
+      "_app-rsc-cache-busting-CEvXzclV.js",
       "_headers-BHZFF2Vl.js",
       "_navigation-errors-6F4lFuWs.js",
       "_hash-BuqRzL92.js",
@@ -177,7 +177,7 @@
     ],
     "dynamicImports": [
       "node_modules/vinext/dist/shims/internal/hybrid-client-route-owner.js",
-      "_app-route-prefetch-policy-Dgbai4Qq.js",
+      "_app-route-prefetch-policy-DswuLxsH.js",
       "virtual:vinext-app-browser-entry",
       "node_modules/vinext/dist/shims/layout-segment-context.js",
       "_Icon-CPw0rDNO.js",
